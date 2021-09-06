@@ -9,6 +9,8 @@ const loadDetails = () => {
     .then(res => res.json())
     .then(data => setDetails(data))
 
+    document.getElementById('city-name').value = '';
+
 };
 
 const getFeilds =(id, input)=>{
