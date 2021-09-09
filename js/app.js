@@ -1,5 +1,5 @@
 // Api key 
-const api_Key =`db6ee1833e8bdf25ff9c8cf0b89253e6`;
+const api_Key =``;
 
 // load weather details function
 const loadDetails = () => {
